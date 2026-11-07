@@ -6,7 +6,7 @@ The goal is to learn how to deploy and run AI models on edge devices using dedic
 
 Each project will have its own directory containing the code, configuration files, instructions and results from the experiment.
 
-# Hardware
+### Hardware
 
 All experiments in this repository use the following setup:
 
@@ -14,7 +14,7 @@ All experiments in this repository use the following setup:
 - AI accelerator: Hailo-8
 - Operating system: Raspberry Pi OS (Debian 13 Trixie)
 
-# Software and Tools
+### Software and Tools
 
 The main tools and software used across the projects include:
 
@@ -28,7 +28,7 @@ The main tools and software used across the projects include:
 
 Different projects may require additional libraries and dependencies, which will be documented in their respective directories.
 
-## Working Environment
+### Working Environment
 
 All project instructions and commands assume that you are working inside an SSH session connected to the Raspberry Pi 5.
 
