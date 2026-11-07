@@ -1,1 +1,1 @@
-This repository will contain all the files I am working with for experimenting on the hailo-8 for AI acceleration.
+This repository will contain all the files I am working with for experimenting on the hailo-8 for AI acceleration. The project writeup assumes you are wroking in the ssh of your rapsberry-pi. I am using a raspberry-pi 5 and Hailo-8 for this work
