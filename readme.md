@@ -1,0 +1,1 @@
+This repository will contain all the files I am working with for experimenting on the hailo-8 for AI acceleration.
