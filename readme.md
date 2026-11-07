@@ -10,9 +10,9 @@ Each project will have its own directory containing the code, configuration file
 
 All experiments in this repository use the following setup:
 
-Raspberry Pi 5
-AI accelerator: Hailo-8
-Operating system: Raspberry Pi OS (Debian 13 Trixie)
+- Raspberry Pi 5
+- AI accelerator: Hailo-8
+- Operating system: Raspberry Pi OS (Debian 13 Trixie)
 
 # Software and Tools
 
