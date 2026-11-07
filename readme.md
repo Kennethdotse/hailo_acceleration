@@ -32,8 +32,6 @@ Different projects may require additional libraries and dependencies, which will
 
 All project instructions and commands assume that you are working inside an SSH session connected to the Raspberry Pi 5.
 
-The Raspberry Pi is the main development and execution environment. Code is written, configured and executed on the Pi through the terminal rather than assuming that the commands are being run on a separate desktop Linux machine.
-
 For example, to connect to the Raspberry Pi from another computer:
 
 ``` bash
