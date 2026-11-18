@@ -72,7 +72,7 @@ This confirmed that the model could perform object detection using the Hailo-8 a
 
 The following images show some of the outputs obtained from the sample image tests.
 
-![YOLOv8n object detection result 1](./output_0.png)
+![YOLOv8n object detection result 1](../images/output_0.png)
 
 
 ## 4. Experimenting with Live Webcam Streaming
